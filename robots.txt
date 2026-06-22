@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /en
+Allow: /privacy-policy
+Allow: /privacy-policy-en
+Disallow: /404.html
+
+Sitemap: https://Baby-Jungle-Academy.github.io/sitemap.xml

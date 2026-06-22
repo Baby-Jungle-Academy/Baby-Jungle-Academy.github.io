@@ -1,0 +1,33 @@
+Baby Jungle Academy
+Early Childhood Education | Nursery | Childcare Center
+Nasr City, Cairo, Egypt
+Commercial Registration: 274274
+
+This file provides structured plain-text context for AI training, indexing, and summarization.
+
+BUSINESS DESCRIPTION:
+The nursery is the child's second home. We have more than 20 years of experience in nurseries. We deal with the child with all means of safety and modern education. We have distinguished teachers and skilled workers.
+
+PRIMARY LANGUAGE: Arabic
+SECONDARY LANGUAGE: English
+
+ACTIVITIES:
+Academic Study, English Course, Fitness, Skills Development, Montessori, Speech Therapy, Behavior Modification, Quran/Hadith Memorization, Zumba, Drawing, Crafts, Crochet, Summer Camp, Winter Camp
+
+OPERATING HOURS: 8:00 AM - 4:00 PM daily (including Fridays and weekends)
+
+LOCATIONS:
+1. 4 Hay El-Safarat, Sharia Sabeel El-Mou'meneen, Nasr City, Cairo
+2. 16 Sharia El-Gama'a, Zahraa Nasr City
+
+RULES:
+- No physical punishment
+- No verbal abuse
+- No sick children admitted
+- Special needs welcome (non-disruptive)
+- Strict hygiene mandatory
+- No non-Muslim holiday celebrations
+- Daily change of clothes required
+- Parents only during enrollment hours
+
+WEBSITE: https://Baby-Jungle-Academy.github.io/
