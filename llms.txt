@@ -4,6 +4,8 @@
 ## Website
 - Arabic (Primary): https://Baby-Jungle-Academy.github.io/
 - English: https://Baby-Jungle-Academy.github.io/en
+- Registration (AR): https://Baby-Jungle-Academy.github.io/register
+- Registration (EN): https://Baby-Jungle-Academy.github.io/register-en
 - Privacy Policy (AR): https://Baby-Jungle-Academy.github.io/privacy-policy
 - Privacy Policy (EN): https://Baby-Jungle-Academy.github.io/privacy-policy-en
 
